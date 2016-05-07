@@ -1,0 +1,55 @@
+0 - -unknown-
+1 - AOL Explorer
+2 - Android Browser
+3 - Apple Mail
+4 - Arora
+5 - Avant Browser
+6 - BlackBerry Browser
+7 - Camino
+8 - Chrome
+9 - Chrome Mobile
+10 - Chromium
+11 - CometBird
+12 - Comodo Dragon
+13 - Conkeror
+14 - CoolNovo
+15 - Crazy Browser
+16 - Epic
+17 - Firefox
+18 - Flock
+19 - Google Earth
+20 - Googlebot
+21 - IBrowse
+22 - IE
+23 - IE Mobile
+24 - IceDragon
+25 - IceWeasel
+26 - Iron
+27 - Kindle Browser
+28 - Maxthon
+29 - Mobile Firefox
+30 - Mobile Safari
+31 - Mozilla
+32 - NetNewsWire
+33 - Nintendo Browser
+34 - OmniWeb
+35 - Opera
+36 - Opera Mini
+37 - Opera Mobile
+38 - Outlook 2007
+39 - PS Vita browser
+40 - Pale Moon
+41 - Palm Pre web browser
+42 - RockMelt
+43 - Safari
+44 - SeaMonkey
+45 - Silk
+46 - SiteKiosk
+47 - SlimBrowser
+48 - Sogou Explorer
+49 - Stainless
+50 - TenFourFox
+51 - TheWorld Browser
+52 - UC Browser
+53 - Yandex.Browser
+54 - wOSBrowser

@@ -1,0 +1,4 @@
+0 - -unknown-
+1 - FEMALE
+2 - MALE
+3 - OTHER

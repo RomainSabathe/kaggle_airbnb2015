@@ -1,0 +1,11 @@
+0 - -unknown-
+1 - booking_request
+2 - booking_response
+3 - click
+4 - data
+5 - message_post
+6 - modify
+7 - partner_callback
+8 - submit
+9 - undef
+10 - view

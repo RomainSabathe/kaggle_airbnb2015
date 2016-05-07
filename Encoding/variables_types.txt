@@ -1,0 +1,18 @@
+DUMMY VARIABLES:
+gender
+signup_method
+language
+affiliate_channel
+affiliate_provider
+first_affiliate_tracked
+signup_app
+first_device_type
+first_browser
+country_destination
+
+QUANTITATIVE VARIABLES:
+date_account_created
+timestamp_first_active
+date_first_booking
+age
+signup_flow

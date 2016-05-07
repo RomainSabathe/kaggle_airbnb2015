@@ -1,0 +1,9 @@
+0 - Android Phone
+1 - Android Tablet
+2 - Desktop (Other)
+3 - Mac Desktop
+4 - Other/Unknown
+5 - SmartPhone (Other)
+6 - Windows Desktop
+7 - iPad
+8 - iPhone

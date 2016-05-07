@@ -1,0 +1,8 @@
+0 - api
+1 - content
+2 - direct
+3 - other
+4 - remarketing
+5 - sem-brand
+6 - sem-non-brand
+7 - seo

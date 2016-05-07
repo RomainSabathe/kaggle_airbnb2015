@@ -1,0 +1,14 @@
+0 - Android App Unknown Phone/Tablet
+1 - Android Phone
+2 - Blackberry
+3 - Chromebook
+4 - Linux Desktop
+5 - Mac Desktop
+6 - Opera Phone
+7 - Tablet
+8 - Windows Desktop
+9 - Windows Phone
+10 - iPad Tablet
+11 - iPhone
+12 - iPodtouch
+13 - undef

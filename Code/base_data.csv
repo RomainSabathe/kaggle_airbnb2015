@@ -1,0 +1,151 @@
+id,gender,age,signup_method,signup_flow,language,affiliate_channel,affiliate_provider,first_affiliate_tracked,signup_app,first_device_type,first_browser,country_destination,date_account_created_year,date_account_created_month,date_account_created_day,timestamp_first_active_year,timestamp_first_active_month,timestamp_first_active_day,date_first_booking_year,date_first_booking_month,date_first_booking_day
+a7j0yxss3q,MALE,43.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,US,2014,2,20,2014,2,20,2014.0,2.0,23.0
+ru73r50j4u,FEMALE,26.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2012,8,27,2012,8,27,-999.0,-999.0,-999.0
+6k7l2ioap4,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,6,12,2013,6,12,-999.0,-999.0,-999.0
+jbyzcnh1gw,FEMALE,38.0,facebook,0,en,direct,direct,linked,Web,Android Tablet,IE,NDF,2013,3,26,2013,3,26,-999.0,-999.0,-999.0
+i0ls1tdfvs,FEMALE,25.0,basic,0,en,other,meetup,tracked-other,Web,Mac Desktop,Chrome,US,2013,9,27,2013,9,27,2014.0,4.0,16.0
+1m2l18uyhc,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,3,23,2013,3,23,-999.0,-999.0,-999.0
+rgnr6fkgd3,FEMALE,41.0,facebook,0,en,sem-non-brand,google,omg,Web,Windows Desktop,IE,NDF,2013,2,27,2013,2,27,-999.0,-999.0,-999.0
+3b1okctsey,-unknown-,26.0,basic,0,en,sem-brand,google,omg,Web,iPad,Mobile Safari,US,2014,1,2,2014,1,2,2014.0,1.0,2.0
+p7z5uykakn,FEMALE,31.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,10,29,2013,10,29,-999.0,-999.0,-999.0
+9n3absica1,FEMALE,60.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2012,7,3,2012,7,3,-999.0,-999.0,-999.0
+0xjb3wpz3y,-unknown-,29.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,9,26,2013,9,26,-999.0,-999.0,-999.0
+6aa100b971,MALE,34.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,NDF,2013,12,30,2013,12,30,-999.0,-999.0,-999.0
+couky21ar7,FEMALE,78.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,IE,NDF,2012,10,30,2012,10,30,-999.0,-999.0,-999.0
+xb7agntlx3,MALE,30.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2013,4,16,2013,4,16,-999.0,-999.0,-999.0
+lvhfc8d79b,-unknown-,-999.0,basic,0,en,sem-brand,google,omg,Web,Windows Desktop,Chrome,US,2014,4,2,2014,4,2,2014.0,4.0,4.0
+7fw9vmrmo0,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,4,3,2013,4,3,-999.0,-999.0,-999.0
+ajdj0rn8zj,-unknown-,-999.0,basic,0,en,seo,google,linked,Web,Mac Desktop,Chrome,NDF,2014,4,13,2014,4,13,-999.0,-999.0,-999.0
+7pls4msqep,-unknown-,-999.0,basic,25,en,direct,direct,untracked,iOS,iPhone,-unknown-,NDF,2014,5,1,2014,5,1,-999.0,-999.0,-999.0
+hkcdciipkp,-unknown-,51.0,basic,0,en,direct,direct,omg,Web,Windows Desktop,Firefox,US,2013,9,25,2013,9,25,2013.0,10.0,7.0
+my7uimvnfv,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,9,26,2013,9,26,-999.0,-999.0,-999.0
+w9tlg63lqx,MALE,33.0,facebook,12,en,api,other,untracked,iOS,iPhone,-unknown-,NDF,2012,12,8,2012,12,8,-999.0,-999.0,-999.0
+x0iie55gls,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2014,2,17,2014,2,17,-999.0,-999.0,-999.0
+mz2z25pcc0,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2013,1,28,2013,1,28,-999.0,-999.0,-999.0
+kxxzyempmg,MALE,50.0,basic,12,en,api,other,untracked,Android,Other/Unknown,-unknown-,NDF,2013,12,8,2013,12,8,-999.0,-999.0,-999.0
+om748aa3k6,-unknown-,-999.0,basic,2,en,seo,google,linked,Web,Windows Desktop,IE,NDF,2011,9,25,2011,9,25,-999.0,-999.0,-999.0
+uin5aw8qcf,-unknown-,-999.0,basic,0,en,seo,google,linked,Web,iPad,Mobile Safari,NDF,2014,3,31,2014,3,31,-999.0,-999.0,-999.0
+8h4w9i8u0z,MALE,39.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2013,9,10,2013,9,10,-999.0,-999.0,-999.0
+j7l6bxpaim,-unknown-,-999.0,basic,0,en,sem-brand,google,omg,Web,Windows Desktop,Chrome,NDF,2014,4,3,2014,4,3,-999.0,-999.0,-999.0
+52hd1kz3tf,-unknown-,27.0,basic,0,en,sem-brand,google,omg,Web,Mac Desktop,Chrome,US,2014,2,22,2014,2,22,2014.0,2.0,24.0
+jlxo576gv2,MALE,36.0,facebook,0,en,other,facebook-open-graph,tracked-other,Web,Windows Desktop,Firefox,NDF,2013,2,25,2013,2,25,-999.0,-999.0,-999.0
+gwzk7gl9op,FEMALE,36.0,facebook,2,en,sem-non-brand,vast,linked,Web,Windows Desktop,Chrome,other,2011,8,23,2011,8,23,2011.0,8.0,26.0
+cnxglyx0cw,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,IT,2013,3,29,2013,3,29,2013.0,3.0,29.0
+8rj687wfnq,FEMALE,37.0,basic,0,en,sem-brand,google,omg,Web,iPad,Mobile Safari,NDF,2014,2,27,2014,2,27,-999.0,-999.0,-999.0
+e6ervon0bf,-unknown-,-999.0,basic,0,en,sem-non-brand,google,omg,Web,Mac Desktop,Safari,NDF,2013,9,8,2013,9,8,-999.0,-999.0,-999.0
+xi3v9jqrrb,MALE,30.0,basic,0,en,sem-brand,google,linked,Web,Windows Desktop,Chrome,NDF,2012,4,23,2012,4,23,-999.0,-999.0,-999.0
+wvzt8p11nb,FEMALE,51.0,basic,0,en,sem-brand,google,omg,Web,Desktop (Other),Chrome,US,2014,3,25,2014,3,25,2014.0,4.0,2.0
+n191sedgyp,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,iPad,Mobile Safari,NDF,2014,2,2,2014,2,2,-999.0,-999.0,-999.0
+kpud83orm7,FEMALE,45.0,facebook,0,en,sem-brand,google,omg,Web,Windows Desktop,Chrome,NDF,2014,5,22,2014,5,22,-999.0,-999.0,-999.0
+hgswn3g09b,-unknown-,-999.0,basic,3,en,direct,direct,untracked,Web,iPad,-unknown-,NDF,2012,4,2,2012,4,2,-999.0,-999.0,-999.0
+7r3ub4cor0,-unknown-,29.0,basic,0,en,direct,direct,untracked,Web,iPad,Mobile Safari,FR,2012,3,23,2012,3,23,2012.0,4.0,1.0
+wc1ab4iq32,-unknown-,-999.0,basic,0,en,seo,google,linked,Web,Windows Desktop,Chrome,NDF,2013,8,15,2013,8,15,-999.0,-999.0,-999.0
+7vw2p53vxn,FEMALE,110.0,facebook,0,en,sem-non-brand,google,omg,Web,Windows Desktop,Chrome,US,2013,11,21,2013,11,21,2013.0,11.0,21.0
+p2mkj629s6,MALE,42.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,IT,2013,8,16,2013,8,16,2013.0,8.0,28.0
+5sjzc6zh4x,FEMALE,33.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2014,2,20,2014,2,20,-999.0,-999.0,-999.0
+ufk620d5ei,-unknown-,-999.0,basic,12,en,api,other,-999,Moweb,Other/Unknown,-unknown-,NDF,2012,11,4,2012,11,4,-999.0,-999.0,-999.0
+qk8otipyuz,-unknown-,33.0,basic,0,en,direct,direct,omg,Web,iPad,Mobile Safari,other,2014,3,2,2014,3,2,2014.0,3.0,4.0
+9o9hama7tz,FEMALE,29.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,NDF,2012,4,27,2012,4,27,-999.0,-999.0,-999.0
+kklft8hfq9,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,9,19,2013,9,19,-999.0,-999.0,-999.0
+yg2hive4wy,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Desktop (Other),Chrome,NDF,2013,11,7,2013,11,7,-999.0,-999.0,-999.0
+xbt7uwxtv7,FEMALE,33.0,basic,0,en,content,google,omg,Web,Windows Desktop,IE,NDF,2013,11,4,2013,11,4,-999.0,-999.0,-999.0
+f2m138174o,-unknown-,-999.0,basic,0,en,seo,facebook,linked,Web,Windows Desktop,Chrome,NDF,2013,3,30,2013,3,30,-999.0,-999.0,-999.0
+fa0361i9gd,FEMALE,49.0,facebook,0,en,direct,direct,linked,Web,Mac Desktop,Safari,NDF,2013,3,11,2013,3,11,-999.0,-999.0,-999.0
+o09ozz00uu,FEMALE,55.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,GB,2013,5,23,2013,5,23,2013.0,5.0,27.0
+ugs0lcpdmm,FEMALE,30.0,basic,24,en,direct,direct,untracked,Moweb,iPhone,-unknown-,US,2013,7,8,2013,7,8,2013.0,7.0,8.0
+vbcuhf8d80,FEMALE,61.0,basic,0,pt,sem-non-brand,google,untracked,Web,Windows Desktop,IE,other,2012,9,14,2012,9,14,2012.0,9.0,19.0
+gh411tiyx0,FEMALE,33.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,US,2014,2,14,2014,2,14,2014.0,2.0,14.0
+bfq9046yo7,FEMALE,27.0,basic,0,en,direct,direct,untracked,Web,iPhone,Mobile Safari,US,2014,1,17,2014,1,17,2014.0,1.0,18.0
+7hpdwt8lfo,MALE,24.0,basic,25,en,direct,direct,untracked,iOS,iPhone,-unknown-,US,2014,5,2,2014,5,2,2014.0,6.0,28.0
+ig79a2rhff,-unknown-,-999.0,basic,24,en,direct,direct,untracked,Moweb,iPhone,Mobile Safari,NDF,2013,9,11,2013,9,11,-999.0,-999.0,-999.0
+72euobbfvw,FEMALE,29.0,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Firefox,US,2012,3,8,2012,3,8,2012.0,3.0,8.0
+zlfq4khsmf,-unknown-,52.0,basic,0,en,other,other,tracked-other,Web,Mac Desktop,Firefox,US,2012,6,19,2012,6,19,2012.0,6.0,20.0
+1o0q0hp285,FEMALE,28.0,basic,2,en,seo,google,untracked,Web,Other/Unknown,-unknown-,NDF,2011,1,3,2011,1,3,-999.0,-999.0,-999.0
+aulsnyaz3b,FEMALE,29.0,facebook,0,en,direct,direct,-999,Web,Other/Unknown,-unknown-,NDF,2012,3,22,2012,3,22,-999.0,-999.0,-999.0
+zq3y2qrp3u,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2012,7,16,2012,7,16,2012.0,7.0,20.0
+2ver995lsi,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,NDF,2013,6,15,2013,6,15,-999.0,-999.0,-999.0
+6lr8w376tj,-unknown-,41.0,basic,3,en,sem-non-brand,vast,untracked,Web,iPad,Mobile Safari,other,2010,9,8,2010,9,8,2010.0,9.0,9.0
+wpb8j3mlwg,-unknown-,-999.0,basic,0,en,sem-brand,google,omg,Web,iPad,Mobile Safari,US,2014,4,24,2014,4,24,2014.0,4.0,25.0
+dmccxwu3sl,FEMALE,64.0,facebook,0,de,sem-brand,google,omg,Web,iPad,Mobile Safari,NDF,2013,2,6,2013,2,6,-999.0,-999.0,-999.0
+vhzw87si3p,FEMALE,61.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,US,2013,11,16,2013,11,16,2013.0,11.0,17.0
+mkmbccoug4,FEMALE,29.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,FR,2013,2,19,2013,2,19,2013.0,2.0,20.0
+y7n7v5bqkq,-unknown-,-999.0,basic,0,en,sem-brand,google,linked,Web,Windows Desktop,Chrome,NDF,2014,1,22,2014,1,22,-999.0,-999.0,-999.0
+dw5f8yy4mg,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Firefox,NDF,2013,8,13,2013,8,13,-999.0,-999.0,-999.0
+fgl583uit1,FEMALE,50.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2012,2,22,2012,2,22,-999.0,-999.0,-999.0
+8c4822b24d,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2013,11,23,2013,11,23,-999.0,-999.0,-999.0
+vsrnq4d7f3,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2012,11,30,2012,11,30,-999.0,-999.0,-999.0
+56af05z9if,FEMALE,27.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US,2014,2,15,2014,2,15,2014.0,2.0,18.0
+iaxgd8uxzw,-unknown-,-999.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,NDF,2014,1,15,2014,1,15,-999.0,-999.0,-999.0
+e3opz56hew,-unknown-,-999.0,basic,0,en,sem-brand,google,untracked,Web,Mac Desktop,Safari,NDF,2014,6,2,2014,6,2,-999.0,-999.0,-999.0
+vm4q8sd2at,FEMALE,34.0,basic,3,en,direct,direct,omg,Web,Mac Desktop,Safari,other,2011,12,7,2011,12,7,2011.0,12.0,7.0
+lgi07sreev,FEMALE,34.0,facebook,0,en,seo,bing,linked,Web,Windows Desktop,IE,NDF,2012,10,2,2012,10,2,-999.0,-999.0,-999.0
+pmy2pr84um,-unknown-,-999.0,basic,0,en,direct,direct,linked,Web,Windows Desktop,IE,NDF,2014,1,15,2014,1,15,-999.0,-999.0,-999.0
+wt254j41cr,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,CA,2012,6,4,2012,6,4,2012.0,6.0,5.0
+kjpvo7gxhf,FEMALE,27.0,facebook,0,en,sem-brand,google,untracked,Web,Mac Desktop,Chrome,NDF,2013,7,23,2013,7,23,-999.0,-999.0,-999.0
+7eec1odc8c,MALE,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,NDF,2012,8,6,2012,8,6,-999.0,-999.0,-999.0
+gsgeum18pq,-unknown-,-999.0,basic,0,en,sem-non-brand,google,omg,Web,iPad,Mobile Safari,NDF,2014,1,2,2014,1,2,-999.0,-999.0,-999.0
+94kelus611,-unknown-,-999.0,basic,0,en,direct,direct,-999,Web,Other/Unknown,-unknown-,US,2011,7,27,2011,7,27,2011.0,7.0,27.0
+7vb2bd8qnt,FEMALE,59.0,facebook,0,en,direct,direct,omg,Web,Mac Desktop,Safari,GB,2013,4,6,2013,4,6,2013.0,5.0,10.0
+rf8x5kswox,-unknown-,25.0,basic,0,en,sem-brand,google,omg,Web,Mac Desktop,Safari,US,2014,6,1,2014,6,1,2014.0,6.0,1.0
+q8dqz1zzni,-unknown-,-999.0,basic,23,ko,direct,direct,untracked,Android,Android Phone,-unknown-,NDF,2014,5,25,2014,5,25,-999.0,-999.0,-999.0
+b3mbveyow3,-unknown-,-999.0,basic,25,en,direct,direct,untracked,iOS,iPhone,-unknown-,NDF,2014,5,14,2014,5,14,-999.0,-999.0,-999.0
+7wbb53a0am,MALE,36.0,basic,3,en,direct,direct,linked,Web,Mac Desktop,Safari,US,2012,2,4,2012,2,4,2012.0,2.0,4.0
+oqg2pqd9ov,-unknown-,-999.0,basic,0,ja,content,google,omg,Web,Mac Desktop,Safari,NDF,2014,2,4,2014,2,4,-999.0,-999.0,-999.0
+ozm10jmsmn,-unknown-,-999.0,basic,12,en,api,other,untracked,Web,Other/Unknown,-unknown-,NDF,2012,5,23,2012,5,23,-999.0,-999.0,-999.0
+fvxk9rmh6r,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,6,6,2013,6,6,-999.0,-999.0,-999.0
+28mbjib6kl,-unknown-,-999.0,basic,0,en,sem-brand,google,omg,Web,Mac Desktop,Safari,NDF,2014,5,4,2014,5,4,-999.0,-999.0,-999.0
+il2zgxebga,MALE,28.0,basic,2,en,sem-non-brand,google,untracked,Web,Windows Desktop,Chrome,US,2011,12,22,2011,12,22,2011.0,12.0,23.0
+1d3lffbz1m,MALE,35.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2012,2,7,2012,2,7,2012.0,2.0,14.0
+t93kik6s88,-unknown-,-999.0,facebook,3,en,direct,direct,-999,Web,Other/Unknown,-unknown-,US,2010,3,27,2010,3,27,2010.0,3.0,27.0
+d5ar0eppno,MALE,32.0,basic,0,en,sem-brand,google,omg,Web,Mac Desktop,Chrome,NDF,2014,3,31,2014,3,31,-999.0,-999.0,-999.0
+48ydmcivvz,-unknown-,-999.0,basic,25,en,direct,direct,untracked,iOS,iPhone,-unknown-,NDF,2014,5,13,2014,5,13,-999.0,-999.0,-999.0
+fp7f3hayim,FEMALE,-999.0,basic,0,en,sem-brand,google,linked,Web,Mac Desktop,Chrome,US,2013,11,9,2013,11,9,2013.0,11.0,10.0
+b1y2frj9l7,FEMALE,25.0,facebook,12,en,api,other,untracked,iOS,iPhone,-unknown-,NDF,2013,7,19,2013,7,19,-999.0,-999.0,-999.0
+r4hn73qsdp,-unknown-,-999.0,basic,12,en,api,other,untracked,Android,Other/Unknown,-unknown-,NDF,2013,10,30,2013,10,30,-999.0,-999.0,-999.0
+65g4iudckh,-unknown-,26.0,basic,0,en,other,other,linked,Web,Windows Desktop,Chrome,NDF,2013,12,18,2013,12,18,-999.0,-999.0,-999.0
+v2lrzfgqlc,MALE,43.0,basic,6,en,direct,other,omg,Web,Windows Desktop,Chrome,US,2011,11,19,2011,11,19,2012.0,10.0,3.0
+afqdp3hscg,FEMALE,43.0,basic,0,en,direct,direct,untracked,Web,iPad,Mobile Safari,NDF,2014,3,27,2014,3,27,-999.0,-999.0,-999.0
+dfvd45veq3,MALE,-999.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,NDF,2012,9,6,2012,9,6,-999.0,-999.0,-999.0
+6dqr4154lz,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2013,10,26,2013,10,26,2013.0,11.0,30.0
+00lmbolz20,FEMALE,26.0,facebook,12,en,api,other,untracked,iOS,iPhone,Mobile Safari,NDF,2014,3,23,2014,3,23,-999.0,-999.0,-999.0
+d3syga0fj8,-unknown-,-999.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,NDF,2014,4,16,2014,4,16,-999.0,-999.0,-999.0
+cmfem2rfy3,FEMALE,38.0,basic,0,en,direct,direct,untracked,Web,Android Tablet,-unknown-,NDF,2011,8,16,2011,8,16,-999.0,-999.0,-999.0
+qy8shtn1kw,MALE,33.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,Firefox,US,2013,4,11,2013,4,11,2013.0,5.0,2.0
+tnl7chohbp,MALE,33.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,IE,NDF,2014,4,9,2014,4,9,-999.0,-999.0,-999.0
+b0qay8cu5q,MALE,34.0,facebook,0,en,other,craigslist,tracked-other,Web,Mac Desktop,Safari,NDF,2011,11,19,2011,11,19,-999.0,-999.0,-999.0
+4qi8br35u1,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2013,10,24,2013,10,24,-999.0,-999.0,-999.0
+vte6zxn5ep,MALE,25.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Safari,US,2012,8,23,2012,8,23,2012.0,8.0,24.0
+hn04q2wy1v,-unknown-,-999.0,basic,23,en,direct,direct,untracked,Android,Other/Unknown,-unknown-,NDF,2014,5,7,2014,5,7,-999.0,-999.0,-999.0
+5cxmexojp3,-unknown-,-999.0,basic,0,en,sem-non-brand,google,untracked,Web,iPad,Mobile Safari,NDF,2014,5,17,2014,5,17,-999.0,-999.0,-999.0
+b71ztl777q,MALE,26.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2012,10,25,2012,10,25,2013.0,10.0,14.0
+xko45ohjh7,MALE,26.0,basic,0,en,direct,direct,untracked,Web,iPhone,-unknown-,NDF,2014,4,16,2014,4,16,-999.0,-999.0,-999.0
+whc58fa9d9,MALE,25.0,facebook,12,en,api,other,untracked,Android,Other/Unknown,-unknown-,NDF,2014,1,9,2014,1,9,-999.0,-999.0,-999.0
+hvpvl1ami3,MALE,37.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,other,2013,12,3,2013,12,3,2014.0,3.0,20.0
+e1jtcssqrm,FEMALE,20.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2014,4,26,2014,4,26,2014.0,5.0,15.0
+ofwq9iunbv,-unknown-,-999.0,basic,2,en,direct,direct,linked,Web,Windows Desktop,Chrome,other,2010,2,20,2010,2,20,2011.0,2.0,11.0
+bkoe0nzhdq,FEMALE,2014.0,basic,0,en,direct,direct,-999,Web,Other/Unknown,-unknown-,NDF,2012,3,1,2012,3,1,-999.0,-999.0,-999.0
+pcgmsfq988,MALE,27.0,facebook,0,en,direct,direct,linked,Web,Windows Desktop,Chrome,US,2012,4,10,2012,4,10,2012.0,4.0,11.0
+uw95wsazf4,MALE,41.0,basic,3,en,direct,direct,untracked,Web,Mac Desktop,Safari,GB,2012,1,23,2012,1,23,2012.0,1.0,23.0
+794y8cfa1w,-unknown-,-999.0,basic,0,en,sem-non-brand,google,omg,Web,Windows Desktop,IE,NDF,2014,3,22,2014,3,22,-999.0,-999.0,-999.0
+esxaxns0ty,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,other,2014,3,18,2014,3,18,2014.0,3.0,18.0
+tc3ww0el1c,-unknown-,-999.0,basic,25,en,direct,direct,untracked,iOS,iPad,-unknown-,NDF,2014,3,2,2014,3,2,-999.0,-999.0,-999.0
+o67huo193o,FEMALE,56.0,basic,0,en,sem-non-brand,bing,omg,Web,Windows Desktop,IE,NDF,2012,10,3,2012,10,3,-999.0,-999.0,-999.0
+uvamrkqfzm,-unknown-,19.0,basic,0,en,content,google,omg,Web,Windows Desktop,Chrome,NDF,2013,10,23,2013,10,23,-999.0,-999.0,-999.0
+e4dhpsiqlt,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Windows Desktop,IE,NDF,2013,9,3,2013,9,3,-999.0,-999.0,-999.0
+w0keheklxo,FEMALE,33.0,basic,0,en,other,craigslist,untracked,Web,Windows Desktop,IE,US,2012,2,12,2012,2,12,2012.0,2.0,12.0
+3p4p2rzzy6,-unknown-,-999.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2013,10,28,2013,10,28,-999.0,-999.0,-999.0
+fsip6m2k0h,MALE,32.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Chrome,NDF,2013,7,25,2013,7,25,-999.0,-999.0,-999.0
+hnu9352tvd,MALE,34.0,facebook,12,en,api,other,omg,iOS,Mac Desktop,Chrome,FR,2014,1,10,2014,1,10,2014.0,12.0,2.0
+0ig1ztixhv,-unknown-,-999.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,NDF,2013,7,25,2013,7,25,-999.0,-999.0,-999.0
+3v12kr6vpg,FEMALE,24.0,facebook,0,en,direct,direct,untracked,Web,Windows Desktop,Chrome,NDF,2013,12,2,2013,12,2,-999.0,-999.0,-999.0
+7cw0n4omfw,MALE,26.0,facebook,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,NDF,2013,4,25,2013,4,25,-999.0,-999.0,-999.0
+7r5cfr3ois,FEMALE,42.0,basic,0,en,direct,direct,untracked,Web,iPad,Mobile Safari,other,2014,3,29,2014,3,29,2014.0,4.0,21.0
+tgaw2kt4pw,FEMALE,24.0,facebook,0,en,seo,yahoo,untracked,Web,Mac Desktop,Safari,NDF,2013,1,11,2013,1,11,-999.0,-999.0,-999.0
+dlq18eskoz,FEMALE,-999.0,basic,0,fr,sem-non-brand,google,omg,Web,iPad,Mobile Safari,NDF,2012,7,30,2012,7,30,-999.0,-999.0,-999.0
+pqavw39yvd,MALE,26.0,basic,3,en,other,craigslist,untracked,Web,Windows Desktop,IE,other,2011,7,24,2011,7,24,2012.0,3.0,10.0
+dkwd15whin,MALE,28.0,facebook,0,en,direct,direct,omg,Web,iPad,Mobile Safari,US,2013,5,26,2013,5,26,2013.0,10.0,16.0
+444j6v427m,FEMALE,59.0,basic,0,en,sem-brand,google,omg,Web,Mac Desktop,Safari,NDF,2014,2,12,2014,2,12,-999.0,-999.0,-999.0
+88tjgmbyn0,MALE,37.0,basic,0,en,direct,direct,linked,Web,Mac Desktop,Firefox,US,2012,7,24,2012,7,24,2012.0,10.0,4.0
+lx0b7qpl99,MALE,46.0,basic,2,en,sem-brand,google,untracked,Web,Windows Desktop,IE,US,2011,5,23,2011,5,23,2011.0,5.0,28.0
+6gqdlo8d1k,-unknown-,39.0,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari,US,2013,3,29,2013,3,29,2013.0,3.0,29.0
+vovl6j4fbn,MALE,22.0,basic,0,en,seo,google,untracked,Web,Windows Desktop,Chrome,NDF,2014,2,13,2014,2,13,-999.0,-999.0,-999.0
